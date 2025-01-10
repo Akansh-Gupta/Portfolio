@@ -1,0 +1,44 @@
+[
+    {
+        "url": "project1.html",
+        "image": "./images/couch critic/1.png",
+        "heading": "01 : Movie Review Website (Couch&nbspCritic)",
+        "desc": "Couch Critic is a dynamic web platform built with React.js for cinema enthusiasts to connect and explore the world of film. Users can post reviews, rate movies and performances, and engage in community discussions, all powered by MongoDB. Leveraging the IMDb API, Couch Critic provides comprehensive movie information, including plot summaries, cast details, ratings, and financial data. Its user-friendly interface and intuitive navigation create a vibrant online community for sharing opinions and delving deep into cinematic artistry."
+    },
+    {
+        "url": "project2.html",
+        "image": "./images/eat street/1.png",
+        "heading": "02 : Food Ordering Website (Eat&nbspStreet)",
+        "desc": "Eat Street simplifies online food ordering with a user-friendly platform. Explore a diverse, categorized menu and use the search function to quickly find your desired dishes. Easily customize your order, adjusting quantities and adding special instructions directly in the cart. Eat Street maintains a comprehensive order history for each user, allowing for convenient reordering of past favorites. Enjoy a seamless and efficient experience, bringing a world of culinary options to your fingertips. With intuitive navigation and a focus on convenience, Eat Street makes satisfying your cravings easier than ever."
+    },
+    {
+        "url": "project3.html",
+        "image": "./images/checkitoff/1.png",
+        "heading": "03 : Task Management Application (CheckItOff)",
+        "desc": "Keep on top of everything with CheckItOff, a comprehensive task management application integrating to-do lists, notes, and reminders. Data is stored locally within your browser for seamless data retention across sessions. Manage your to-dos by marking tasks as complete, undoing completions, or deleting them. Organize your notes with descriptive titles for easy searching and retrieval. Set timely reminders for upcoming events and receive notifications so you never miss a deadline. CheckItOff empowers you to stay organized and boost your productivity with its intuitive and streamlined interface."
+    },
+    {
+        "url": "project4.html",
+        "image": "./images/digi diary/1.png",
+        "heading": "04 : Blogging Website (Digi&nbspDiary)",
+        "desc": "Digi-Diary is a user-friendly blogging platform designed for content creation, sharing, and community interaction. Users can easily publish and manage personal blogs on diverse topics. Readers can engage with content through comments and discussions, fostering a vibrant online community of writers and readers. Powered by EJS for server-side rendering, Digi-Diary ensures efficient page delivery and a smooth user experience. It provides a space for individuals to share their thoughts, connect with others, and explore a variety of content in a dynamic online environment."
+    },
+    {
+        "url": "project5.html",
+        "image": "./images/the buzz/1.png",
+        "heading": "05 : News Web Application (The&nbspBuzz)",
+        "desc": "The Buzz is a comprehensive news website designed to provide global coverage across diverse domains, including business, sports, science, technology, and general news. Utilizing a robust news API, the platform aggregates current events from around the world, ensuring access to up-to-date information. Key features of The Buzz include intuitive news categorization, enabling users to efficiently navigate and locate relevant content based on their interests. This categorization system enhances the user experience by streamlining information discovery. The website's design prioritizes accessibility and readability, offering a user-friendly interface for seamless browsing. The Buzz successfully creates a valuable resource for staying informed on global events."
+    },
+    {
+        "url": "project6.html",
+        "image": "./images/textutils/1.png",
+        "heading": "06 : Text Utility Application (TextUtils)",
+        "desc": "TextUtils is a text utility application designed for efficient text manipulation. This project provides a suite of features including versatile case conversion (uppercase, lowercase, title case, sentence case), comprehensive whitespace management (trimming, removal of extra spaces), a quick copy function for streamlined workflows, and detailed text summarization providing character, word, and sentence counts, along with estimated reading time. A live preview dynamically updates as the user types, offering immediate feedback. TextUtils also incorporates a user-friendly dark mode toggle for enhanced visual comfort. This project delivers a practical and accessible tool for everyday text processing needs."
+    },
+    {
+        "url": "project7.html",
+        "image": "./images/7 wonders/1.png",
+        "heading": "07 : 7 Wonders Info (7&nbspWonders&nbspof&nbspthe&nbspworld)",
+        "desc": "Explore the Seven Wonders of the Ancient World through this interactive project. Delve into their rich history, stunning architecture, and cultural significance with engaging text and visuals. This project offers unique features, including integrated Google Maps to pinpoint each wonder's location and Street View imagery for immersive virtual tours. Uncover the ingenuity of past civilizations and experience these remarkable structures firsthand. From the Great Pyramid to the Lighthouse of Alexandria, embark on a journey through time and discover the enduring legacy of these ancient marvels."
+    }
+]

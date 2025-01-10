@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <script defer src="script.js"></script>
+    <title>Akansh Gupta Portfolio</title>
+</head>
+
+<body onload="displayProject(4)">
+    <!-- NAVBAR -->
+    <div id="navbar" class="navbar"></div>
+    <!-- SIDEBAR -->
+    <ul id="sidebar" class="sidebar"></ul>
+
+    <!-- HOMEPAGE -->
+    <div id="home" class="bg bg-1">
+        <section class="home">
+            <img src="/images/PFP.png" alt="profile photo" class="home-img">
+            <div class="home-content">
+                <h1>Hi, It<span>'</span>s&nbsp;<span>Akansh</span></h1>
+                <h3>I<span>'</span>m a <span>Web&nbsp;Developer</span></h3>
+                <p>Entry-Level IT Professional | MERN Stack Developer | Skilled in HTML, CSS, JavaScript, C, C++, Python
+                    and MySQL.</p>
+                <div class="social-icons">
+                    <a href="https://www.linkedin.com/in/akanshgupta-" target="_blank"><i
+                            class="fa-brands fa-linkedin"></i></a>
+                            
+                    <a href="https://www.github.com/Akansh-Gupta" target="_blank"><i
+                            class="fa-brands fa-github"></i></a>
+                </div>
+                <a href="AkanshGuptaResume.pdf" class="btn" target="_blank">My&nbsp;Resume</a>
+                <a href="#contact" class="btn">Contact&nbsp;me</a>
+            </div>
+        </section>
+    </div>
+    <!-- PROJECTS -->
+    <div id="projects" class="bg bg-2">
+        <div class="heading">PROJECTS</div>
+        <div class="sub-heading">Check Out My Latest Work. <a
+                href="projects.html"><span><u>SEE&nbsp;MORE></u></span></a>
+        </div>
+        <div id="project-holder"></div>
+        <a href="projects.html" class="btn see-more">SEE MORE ></a>
+    </div>
+    <!-- CONTACT -->
+    <div id="contact" class="bg bg-3">
+        <div class="heading">CONTACT ME</div>
+        <form action="https://api.web3forms.com/submit" method="POST">
+            <input type="hidden" name="access_key" value="d66ce7d2-67dd-41ff-a3a2-8def26068b03">
+            <input type="text" placeholder="Name*" name="name" autocomplete="off" required>
+            <input type="email" placeholder="Email*" name="email" autocomplete="off" required>
+            <input type="text" placeholder="Phone" name="email" autocomplete="off">
+            <textarea name="message" placeholder="Enter the message..." required rows="6"></textarea>
+            <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+            <button class="btn submit" type="submit">Send</button>
+        </form>
+        <!-- FOOTER -->
+        <div class="footer">
+            <div class="footer-icons">
+                <ul>
+                    <li><i class="fa-brands fa-linkedin"></i>www.linkedin.com/in/akanshgupta-</li>
+                    <li><i class="fa-brands fa-github"></i>www.github.com/Akansh-Gupta</li>
+                    <li><i class="fa-regular fa-envelope"></i>akg.gupta365@gmail.com</li>
+                    <li><i class="fa-solid fa-phone"></i>+91 6306128102</li>
+                </ul>
+
+
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
