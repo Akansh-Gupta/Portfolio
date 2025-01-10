@@ -414,10 +414,8 @@ textarea::-webkit-scrollbar {
 .footer ul {
     font-size: var(--fs-s);
     background-color: var(--background);
-    padding: 0 1rem;
     display: flex;
     flex-wrap: wrap;
-    /* justify-content: space-between; */
 }
 
 .footer-icons ul li {
@@ -434,7 +432,7 @@ textarea::-webkit-scrollbar {
     border: 2px solid var(--primary);
     font-size: var(--fs-m);
     border-radius: 50%;
-    margin: 1rem;
+    margin: 0.5rem;
     color: var(--primary);
 }
 
