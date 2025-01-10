@@ -208,16 +208,16 @@ a {
 }
 
 .bg-1 {
-    background-image: url("/images/background/bg-1.png");
+    background-image: url("images/background/bg-1.png");
 }
 
 .bg-2 {
-    background-image: url("/images/background/bg-2.png");
+    background-image: url("images/background/bg-2.png");
     padding-bottom: 6rem;
 }
 
 .bg-3 {
-    background-image: url("/images/background/bg-3.png");
+    background-image: url("images/background/bg-3.png");
     max-height: 100vh;
 }
 
